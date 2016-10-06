@@ -1,4 +1,4 @@
-# Merlot `jekyll-theme-merlot` gem
+# `jekyll-theme-merlot` gem
 
 Merlot is a Jekyll theme for [GitHub Pages](https://pages.github.com).
 
