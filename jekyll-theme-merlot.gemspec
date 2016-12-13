@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.name          = "jekyll-theme-merlot"
   s.version       = "0.0.1"
   s.authors       = ["Cameron McEfee"]
-  s.email         = ["support@github.com"]
+  s.email         = ["opensource+jekyll-theme-merlot@github.com"]
   s.homepage      = "https://github.com/pages-themes/merlot"
   s.summary       = "Merlot is a theme for GitHub Pages"
 
