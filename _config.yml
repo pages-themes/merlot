@@ -1,5 +1,7 @@
 title: Merlot theme
 description: Merlot is a theme for GitHub Pages.
 show_downloads: true
+show_forkme: true
+show_repo: true
 google_analytics:
 theme: jekyll-theme-merlot

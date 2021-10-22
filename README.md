@@ -40,6 +40,8 @@ Additionally, you may choose to set the following optional variables:
 ```yml
 show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 google_analytics: [Your Google Analytics tracking ID]
+show_forkme: ["true" or "false" (unquoted) to indicate whether to show the "Fork Me" ribbon in the top corner]
+show_repo: ["true" or "false" (unquoted) to indicate whether show the link to the github repository in the footer]
 ```
 
 ### Stylesheet
